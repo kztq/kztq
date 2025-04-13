@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pandalofyfc&show_icons=true&count_private=true&hide_border=true&title_color=fa9789&icon_color=fa9789&text_color=c9d1d9&bg_color=0d1117" alt="PandaLofy github stats" /> 
+  <img width="49%" height="195px" src="(https://github-readme-stats.vercel.app/api?username=kurtzcode)&show_icons=true&count_private=true&hide_border=true&title_color=fa9789&icon_color=fa9789&text_color=c9d1d9&bg_color=0d1117" alt="PandaLofy github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalofyfc&layout=compact&hide_border=true&title_color=fa9789&text_color=fa9789&bg_color=0d1117" />
 </div>
 
