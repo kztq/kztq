@@ -28,16 +28,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzcode&bg_color=0d1117&color=fa9789&line=fa9789&point=ffffff&area=true&hide_border=true" />
 </div>
 
----
-
-### Skills
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px;">
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=8892be" alt="PHP" />
-</div>
-
 
 ---
 
