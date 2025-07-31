@@ -44,13 +44,13 @@
 ### 🌐 Connect with me
 <div align="center">
   <a href="https://instagram.com/gonn.otf" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fa9789?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-fa9789?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@kurtz1337/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-fa9789?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-YouTube-fa9789?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:kurtz.empresarial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-fa9789?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-fa9789?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
