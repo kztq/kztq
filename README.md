@@ -30,12 +30,15 @@
 
 <div align="center">
   <br>
-  <p align="center"><b>Visitors Count</b></p>  
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kurtzcode&label=Profile%20views&color=fa9789&style=flat-square" alt="kurtzcode" />
-  </p> 
+    <img src="https://img.shields.io/badge/👁️_Visitors-Count-fa9789?style=for-the-badge&labelColor=0d1117&color=fa9789">
+  </p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kurtzcode&color=fa9789&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
   <br>
 </div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa9789&height=120&section=footer"/>
