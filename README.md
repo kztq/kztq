@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=fa9789&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kurtz;I'm+18+years+old;I'm+from+Portugal;Be+Welcome!+:%29" />
 </div>
 
-<br/>
+---
 
 <!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kurtzcode&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
 </div>
 
-<br/>
+---
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -21,27 +21,27 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtzcode&layout=compact&hide_border=true&title_color=fa9789&text_color=fa9789&bg_color=0d1117" />
 </div>
 
-<br/>
+---
 
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzcode&bg_color=0d1117&color=fa9789&line=fa9789&point=ffffff&area=true&hide_border=true" />
 </div>
 
-<br/>
+---
 
 <!-- Skills -->
-<h3 align="center"> Skills</h3>
+### 🛠️ Skills
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
   <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" />
   <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=8892be" />
 </div>
 
-<br/>
+---
 
 <!-- Social -->
-<h3 align="center"> Connect with me</h3>
+### 🌐 Connect with me
 <div align="center">
   <a href="https://instagram.com/gonn.otf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fa9789?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -54,14 +54,12 @@
   </a>
 </div>
 
-<br/>
+---
 
 <!-- Visitas -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kurtzcode&color=fa9789&style=flat-square" alt="visitor badge"/>
 </div>
-
-<br/>
 
 <!-- Footer animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fa9789&height=120&section=footer"/>
