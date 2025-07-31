@@ -31,7 +31,7 @@
 <br/>
 
 <!-- Skills -->
-<h3 align="center">🛠️ Skills</h3>
+<h3 align="center"> Skills</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
   <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" />
@@ -41,7 +41,7 @@
 <br/>
 
 <!-- Social -->
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center"> Connect with me</h3>
 <div align="center">
   <a href="https://instagram.com/gonn.otf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fa9789?style=for-the-badge&logo=instagram&logoColor=white" />
