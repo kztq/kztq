@@ -37,7 +37,7 @@
   <a href="https://instagram.com/gonn.otf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fa9789?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@kurtzcode/" target="_blank">
+  <a href="https://www.youtube.com/@notkurtz/" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-fa9789?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:kurtz.empresarial@gmail.com" target="_blank">
