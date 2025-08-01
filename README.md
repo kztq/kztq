@@ -6,16 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=fa9789&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kurtz;I'm+18+years+old;I'm+from+Portugal;Be+Welcome!+:%29" />
 </div>
 
-<!-- Linha personalizada -->
-<hr style="border: 1px solid #fa9789;" />
+<!-- Linha rosa -->
+<hr style="border: none; height: 2px; background-color: #fa9789; margin: 30px 0;" />
 
 <!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kurtzcode&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
 </div>
 
-<!-- Linha personalizada -->
-<hr style="border: 1px solid #fa9789;" />
+<!-- Linha rosa -->
+<hr style="border: none; height: 2px; background-color: #fa9789; margin: 30px 0;" />
 
 <!-- GitHub Stats -->
 <div align="center">
@@ -23,16 +23,16 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtzcode&layout=compact&hide_border=true&title_color=fa9789&text_color=fa9789&bg_color=0d1117" />
 </div>
 
-<!-- Linha personalizada -->
-<hr style="border: 1px solid #fa9789;" />
+<!-- Linha rosa -->
+<hr style="border: none; height: 2px; background-color: #fa9789; margin: 30px 0;" />
 
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzcode&bg_color=0d1117&color=fa9789&line=fa9789&point=ffffff&area=true&hide_border=true" />
 </div>
 
-<!-- Linha personalizada -->
-<hr style="border: 1px solid #fa9789;" />
+<!-- Linha rosa -->
+<hr style="border: none; height: 2px; background-color: #fa9789; margin: 30px 0;" />
 
 <!-- Social -->
 ### Connect with me
@@ -48,8 +48,8 @@
   </a>
 </div>
 
-<!-- Linha personalizada -->
-<hr style="border: 1px solid #fa9789;" />
+<!-- Linha rosa -->
+<hr style="border: none; height: 2px; background-color: #fa9789; margin: 30px 0;" />
 
 <!-- Visitas -->
 <div align="center">
