@@ -10,8 +10,9 @@
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kurtzcode&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kurtzcode&no-bg=true&no-frame=true&title=Stars,Followers,Commit,Repositories,Issues,PullRequest&margin-w=15&margin-h=15&row=1&column=6&theme=flat&title_color=fa9789&text_color=fa9789" />
 </div>
+
 
 ---
 
