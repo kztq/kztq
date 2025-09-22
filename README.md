@@ -10,7 +10,7 @@
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kurtzcode&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=6&title_color=fa9789&border_color=fa9789" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kztq&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=6&title_color=fa9789&border_color=fa9789" />
 </div>
 
 
@@ -18,15 +18,15 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kurtzcode&show_icons=true&count_private=true&hide_border=true&title_color=fa9789&icon_color=fa9789&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtzcode&layout=compact&hide_border=true&title_color=fa9789&text_color=fa9789&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kztq&show_icons=true&count_private=true&hide_border=true&title_color=fa9789&icon_color=fa9789&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kztq&layout=compact&hide_border=true&title_color=fa9789&text_color=fa9789&bg_color=0d1117" />
 </div>
 
 ---
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kurtzcode&bg_color=0d1117&color=fa9789&line=fa9789&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kztq&bg_color=0d1117&color=fa9789&line=fa9789&point=ffffff&area=true&hide_border=true" />
 </div>
 
 
