@@ -31,7 +31,6 @@
 ---
 
 <!-- Social -->
-### Connect with me
 <div align="center">
   <a href="https://instagram.com/gonn.otf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-96846f?style=for-the-badge&logo=instagram&logoColor=white" />
