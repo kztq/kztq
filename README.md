@@ -10,22 +10,22 @@
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kztq&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=6&title_color=96846f&border_color=96846f" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wuws&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=6&title_color=96846f&border_color=96846f" />
 </div>
 
 ---
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kztq&show_icons=true&count_private=true&hide_border=true&title_color=96846f&icon_color=96846f&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kztq&layout=compact&hide_border=true&title_color=96846f&text_color=96846f&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wuws&show_icons=true&count_private=true&hide_border=true&title_color=96846f&icon_color=96846f&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuws&layout=compact&hide_border=true&title_color=96846f&text_color=96846f&bg_color=0d1117" />
 </div>
 
 ---
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kztq&bg_color=0d1117&color=96846f&line=96846f&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wuws&bg_color=0d1117&color=96846f&line=96846f&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
